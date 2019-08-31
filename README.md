@@ -21,5 +21,4 @@ It contains:
 - Support .env files to easy switching between different environments (DotNetEnv)
 - ... and some other boilerplate code
 
-Read [Wiki](https://github.com/drwatson1/AspNet-WebApi/wiki) for more information.
-Any suggestions and bug reports are very appeciated.
+
